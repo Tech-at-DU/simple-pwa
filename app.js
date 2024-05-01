@@ -1,3 +1,4 @@
+// You should get your own API key
 const API_KEY = '9c96c8da16ad49e8896d7bc8a721b79b'
 const apiUrl = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${API_KEY}`;
 
